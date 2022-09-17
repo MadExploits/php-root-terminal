@@ -1,6 +1,11 @@
 # Terminal Auto Root 
 This terminal using pwnkit 
 
+# How to root? 
+go to terminal root
+type root
+and done :)
+
 # Bypass?
 
 * 403
