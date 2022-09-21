@@ -2,9 +2,8 @@
 This terminal using pwnkit 
 
 # How to root?
-```
-type [ root ] for running pwnkit file
-```
+
+type `root` for running pwnkit file
 
 # Bypass?
 
