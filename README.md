@@ -1,5 +1,5 @@
 # Terminal Auto Root 
-This terminal using pwnkit 
+This terminal Auto root
 
 # How to root?
 
@@ -12,5 +12,10 @@ type `root` for running pwnkit file
 * 404
 * Litespeed 
 and other WAF!
+
+# Feature
+* Add Dirtypipe checker
+* Add PTRACE_TRACEME Checker
+* Add Something to changedir
 
 &copy;Copyright By ./MrMad
